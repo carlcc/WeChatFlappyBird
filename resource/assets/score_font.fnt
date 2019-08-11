@@ -1,0 +1,11 @@
+{"file":"score_font.png","frames":{
+"0":{"x":37,"y":19,"w":10,"h":16,"offX":4,"offY":2,"sourceW":16,"sourceH":20},
+"1":{"x":49,"y":19,"w":6,"h":16,"offX":8,"offY":3,"sourceW":16,"sourceH":20},
+"2":{"x":1,"y":1,"w":10,"h":16,"offX":4,"offY":3,"sourceW":16,"sourceH":20},
+"3":{"x":13,"y":1,"w":10,"h":16,"offX":4,"offY":3,"sourceW":16,"sourceH":20},
+"4":{"x":1,"y":19,"w":10,"h":16,"offX":5,"offY":2,"sourceW":16,"sourceH":20},
+"5":{"x":49,"y":1,"w":10,"h":16,"offX":5,"offY":2,"sourceW":16,"sourceH":20},
+"6":{"x":25,"y":19,"w":10,"h":16,"offX":4,"offY":2,"sourceW":16,"sourceH":20},
+"7":{"x":25,"y":1,"w":10,"h":16,"offX":4,"offY":2,"sourceW":16,"sourceH":20},
+"8":{"x":13,"y":19,"w":10,"h":16,"offX":4,"offY":2,"sourceW":16,"sourceH":20},
+"9":{"x":37,"y":1,"w":10,"h":16,"offX":4,"offY":2,"sourceW":16,"sourceH":20}}}

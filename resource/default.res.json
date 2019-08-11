@@ -1,0 +1,66 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,flappybird_all_json,bg_day_png,bg_night_png,score_font_fnt,wings_mp3,gameover_mp3,coin_mp3",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/flappybird_all.json",
+			"type": "sheet",
+			"name": "flappybird_all_json",
+			"subkeys": "bird0_0,bird0_1,bird0_2,bird1_0,bird1_1,bird1_2,bird2_0,bird2_1,bird2_2,black,blink_00,blink_01,blink_02,brand_copyright,button_menu,button_ok,button_pause,button_play,button_rate,button_resume,button_score,button_share,font_048,font_049,font_050,font_051,font_052,font_053,font_054,font_055,font_056,font_057,land,medals_0,medals_1,medals_2,medals_3,new,number_context_00,number_context_01,number_context_02,number_context_03,number_context_04,number_context_05,number_context_06,number_context_07,number_context_08,number_context_09,number_context_10,number_score_00,number_score_01,number_score_02,number_score_03,number_score_04,number_score_05,number_score_06,number_score_07,number_score_08,number_score_09,pipe2_down,pipe2_up,pipe_down,pipe_up,score_panel,text_game_over,text_ready,title,tutorial,white"
+		},
+		{
+			"url": "assets/bg_night.png",
+			"type": "image",
+			"name": "bg_night_png"
+		},
+		{
+			"url": "assets/bg_day.png",
+			"type": "image",
+			"name": "bg_day_png"
+		},
+		{
+			"url": "assets/score_font.png",
+			"type": "image",
+			"name": "score_font_png"
+		},
+		{
+			"url": "assets/score_font.fnt",
+			"type": "font",
+			"name": "score_font_fnt"
+		},
+		{
+			"url": "assets/sound/coin.mp3",
+			"type": "sound",
+			"name": "coin_mp3"
+		},
+		{
+			"url": "assets/sound/gameover.mp3",
+			"type": "sound",
+			"name": "gameover_mp3"
+		},
+		{
+			"url": "assets/sound/wings.mp3",
+			"type": "sound",
+			"name": "wings_mp3"
+		}
+	]
+}
